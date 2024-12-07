@@ -9,7 +9,6 @@ A simple Python script to generate potential usernames from a list of full names
   - `jdoe`
   - `doej`
   - `john.doe`
-  - `j_doe`
   - `johndoe`
   - `johnd`
   - `doe.john`
