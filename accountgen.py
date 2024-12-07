@@ -27,15 +27,11 @@ def generate_potential_usernames(file_path):
     f"{first_name[0]}{last_name}".lower(),   # jdoe
     f"{last_name}{first_name[0]}".lower(),   # doej
     f"{first_name}.{last_name}".lower(),     # john.doe
-    f"{first_name[0]}_{last_name}".lower(),  # j_doe
     f"{first_name}{last_name}".lower(),      # johndoe
     f"{first_name}{last_name[0]}".lower(),   # johnd
     f"{last_name}.{first_name}".lower(),     # doe.john
     f"{first_name}-{last_name}".lower(),     # john-doe
-    f"{first_name}_{last_name}".lower(),     # john_doe
-    f"{last_name}_{first_name}".lower(),     # doe_john
     f"{last_name}-{first_name}".lower(),     # doe-john
-    f"{first_name}{last_name[0]}.admin".lower(),  # john.d.admin
     f"{first_name[0]}{last_name[0]}.admin".lower()  # jd.admin
                 ])
         
