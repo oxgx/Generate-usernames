@@ -8,7 +8,15 @@ A simple Python script to generate potential usernames from a list of full names
   - `j.doe`
   - `jdoe`
   - `doej`
-  - `j.doe.admin`
+  - `john.doe`
+  - `j_doe`
+  - `johndoe`
+  - `johnd`
+  - `doe.john`
+  - `john-doe`
+  - `doe-john`
+  - `john.d.admin`
+  - `jd.admin`
 - Handles duplicates and filters out usernames with fewer than three characters.
 
 ## Requirements
