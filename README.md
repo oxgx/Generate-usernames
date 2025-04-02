@@ -1,6 +1,4 @@
-# Generate Usernames Script
-
-A simple Python script to generate potential usernames from a list of full names. It supports multiple username formats, including admin-specific formats like `jd.admin`.
+#A simple Python script to generate potential AD usernames from a list of full names. It supports multiple username formats, including admin-specific formats like `jd.admin`.
 
 ## Features
 - Reads a list of names from a text file.
@@ -16,7 +14,8 @@ A simple Python script to generate potential usernames from a list of full names
   - `doe-john`
   - `john.d.admin`
   - `jd.admin`
-- Handles duplicates and filters out usernames with fewer than three characters.
+    
+- It handles duplicates and filters out usernames with fewer than three characters.
 
 ## Requirements
 - Python 3.x
