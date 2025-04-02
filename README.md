@@ -86,8 +86,6 @@ Usage: ./generateusers.py -u <users.txt>
 Example:
   ./generateusers.py -u users.txt
 ```
-
-## Contribution
-Feel free to open an issue or submit a pull request if you want to add new features or fix bugs.
+oxgx
 
 
